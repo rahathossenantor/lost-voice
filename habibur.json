@@ -1,3 +1,4 @@
+<<<<<<< HEAD
     {
         "children": [
             {
@@ -44,3 +45,30 @@
             }
         ]
     }
+=======
+{
+    "children": [
+        {
+            "name": "",
+            "age": "",
+            "image": "",
+            "lostPlace": "",
+            "lostDate": "",
+            "lostTime": "",
+            "description": "",
+            "fathersName": "",
+            "mothersName": "",
+            "guardiansName": "",
+            "fathersContactNo": "",
+            "mothersContactNo": "",
+            "guardianContactNo": "",
+            "address": "",
+            "lostSource": "",
+            "lostSourceLink": "",
+            "isVerified": true,
+            "isFound": false,
+            "isDead": false
+        }
+    ]
+}
+>>>>>>> 0752a0e9ee10ed2a7cb10d6fcfc816fe1224c92d
